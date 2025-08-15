@@ -1,0 +1,24 @@
+# TensorFlow for GPU (compatible with CUDA 11.8)
+tensorflow==2.13.0
+
+# PyTorch for YOLOv8 (ensure GPU version)
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# YOLOv8
+ultralytics>=8.0.0
+
+# Image processing
+opencv-python
+Pillow
+
+# Data handling
+numpy
+pandas
+matplotlib
+
+# Utilities
+tqdm
+PyYAML
+
