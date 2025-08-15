@@ -1,2 +1,8 @@
-names: ["cacao"]
-nc: 1
+path: DATASET/cocoa  # Base path to dataset
+train: train/images
+val: val/images
+test: test/images
+
+nc: 1  # number of classes
+names:
+  0: cacao
