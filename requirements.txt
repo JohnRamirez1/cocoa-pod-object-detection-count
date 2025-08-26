@@ -1,5 +1,5 @@
 # TensorFlow for GPU (compatible with CUDA 11.8)
-tensorflow==2.13.0
+tensorflow==2.15.0
 
 # PyTorch for YOLOv8 (ensure GPU version)
 torch>=2.0.0
@@ -21,4 +21,3 @@ matplotlib
 # Utilities
 tqdm
 PyYAML
-
